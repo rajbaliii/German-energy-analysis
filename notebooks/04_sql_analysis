@@ -1,4 +1,4 @@
-DATA ANALYTICS PROJECT:
+# DATA ANALYTICS PROJECT:
 German Energy Market Analysis (2015-2020)
 
 - Analyzed 50,401 hourly records to identify cost optimization 
@@ -10,4 +10,5 @@ German Energy Market Analysis (2015-2020)
 - Technologies: Python, Pandas, NumPy, Matplotlib, Seaborn, Git
 
 GitHub: https://github.com/rajbaliii/German-energy-analysis
+
 
